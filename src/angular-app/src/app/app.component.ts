@@ -9,6 +9,8 @@ import { Http } from '@angular/http';
 })
 export class AppComponent implements OnInit {
 
+  title = 'All I did was check-in and bada-boom!';
+
   apiValues: string[];
 
   constructor (private _http: Http) { }
