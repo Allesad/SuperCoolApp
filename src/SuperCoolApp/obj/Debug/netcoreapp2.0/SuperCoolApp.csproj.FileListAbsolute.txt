@@ -1,0 +1,11 @@
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.deps.json
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.runtimeconfig.json
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.runtimeconfig.dev.json
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.dll
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.pdb
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.csprojAssemblyReference.cache
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.csproj.CoreCompileInputs.cache
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.AssemblyInfoInputs.cache
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.AssemblyInfo.cs
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.dll
+D:\Work\Angular\SuperCoolApp\src\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.pdb
